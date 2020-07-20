@@ -1,0 +1,5 @@
+Flask==1.1.2
+pyecharts==1.8.1
+echarts-china-cities-pypkg==0.0.9
+echarts-china-provinces-pypkg==0.0.3
+echarts-countries-pypkg==0.1.6
